@@ -1,0 +1,16 @@
+treatment_type,payment_status,avg_amount
+Chemotherapy,Failed,2821.74
+Chemotherapy,Paid,2508.25
+Chemotherapy,Pending,2555.03
+ECG,Failed,2924.86
+ECG,Paid,1947.01
+ECG,Pending,2542.38
+MRI,Failed,3612.39
+MRI,Paid,3076.03
+MRI,Pending,3075.82
+Physiotherapy,Failed,2880.15
+Physiotherapy,Paid,2931.94
+Physiotherapy,Pending,2342.71
+X-Ray,Failed,2319.63
+X-Ray,Paid,2822.28
+X-Ray,Pending,2903.27
